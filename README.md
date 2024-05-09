@@ -49,3 +49,29 @@ Code solutions of exercises for the book "Beginning C++17 from Novice to Profess
   - Exercise 4-7
   - Exercise 4-8
 </details>
+
+<details>
+<summary>Chapter 5 - Arrays and Loops</summary>
+<br>
+
+  - Exercise 5-1
+  - Exercise 5-2
+  - Exercise 5-3
+  - Exercise 5-4
+  - Exercise 5-5
+  - Exercise 5-6
+  - Exercise 5-7
+  - Exercise 5-8
+</details>
+
+<details>
+<summary>Chapter 6 - Pointer and References</summary>
+<br>
+
+  - Exercise 6-1
+  - Exercise 6-2
+  - Exercise 6-3
+  - Exercise 6-4
+  - Exercise 6-5
+  - Exercise 6-6
+</details>
